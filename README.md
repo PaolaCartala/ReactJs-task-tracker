@@ -21,7 +21,7 @@ En (http://localhost:5000/tasks) se pueden ver los datos.
 ```
 npm start
 ``` 
-en (http://localhost:3000)
+en (http://localhost:3000) se puede probar la app.
 
 ## Soporte
 Si necesitas soporte, podes [comunicarte](paola.cartala@gmail.com "Enviame un mail!") conmigo.
