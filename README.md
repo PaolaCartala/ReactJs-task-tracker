@@ -8,9 +8,20 @@ Este es mi primer proyecto usando ReactJS, se trata de un task tracker que reali
 Para ver el proyecto terminado sólo con funciones UI, seguir [este enlace](https://react-tasks-tracker91.netlify.app/).
 Para probar el código con el mock backend con JSON-server, decargar el código fuente y luego:
 ## Uso
-Instalar dependencias:```npm install```
-Correr el server JSON con ```npm run server```. En (http://localhost:5000/tasks) se pueden ver los datos.
-Correr la app con ```npm start``` en (http://localhost:3000)
+### Instalar dependencias
+```
+npm install
+```
+### Correr el server JSON
+```
+npm run server
+```
+En (http://localhost:5000/tasks) se pueden ver los datos.
+### Correr la app
+```
+npm start
+``` 
+en (http://localhost:3000)
 
 ## Soporte
 Si necesitas soporte, podes [comunicarte](paola.cartala@gmail.com "Enviame un mail!") conmigo.
